@@ -177,7 +177,7 @@
         ["CONFIG_POINTS_WHO_DESC", "Кто является целью?"],
         ["CONFIG_POINTS_VALUE", "значение"],
         ["CONFIG_POINTS_VALUE_DESC", "Задаваемое значение"],
-        ["CONFIG_ROLES", "ролт"],
+        ["CONFIG_ROLES", "роль"],
         ["CONFIG_ROLES_DESC", "Настройка ролевых команд (примените с помощью команды применить)"],
         ["CONFIG_ROLES_ADD", "добавить"],
         ["CONFIG_ROLES_ADD_DESC", "Добавить новую роль к команде"],
